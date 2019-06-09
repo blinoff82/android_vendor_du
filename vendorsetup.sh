@@ -1,5 +1,5 @@
 aosp_devices=('blueline' 'bonito' 'crosshatch' 'dragon' 'marlin' 'shamu' 'taimen')
-caf_devices=('cheeseburger' 'dumpling' 'nash' 'oneplus3' 'potter' 'tenderloin')
+caf_devices=('cheeseburger' 'dumpling' 'nash' 'oneplus3' 'enchilada' 'potter' 'tenderloin')
 
 function lunch_devices() {
     add_lunch_combo du_${device}-user
